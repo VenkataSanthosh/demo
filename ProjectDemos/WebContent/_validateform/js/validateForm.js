@@ -11,6 +11,7 @@ var MyModule = (function(){
 			errorClass : "invalid",
 			validClass : "success",
 			//to remove error that you can see in browser
+			//jaffa
 			onkeyup :  false,
 			onfocusout : false,
 			rules :{
